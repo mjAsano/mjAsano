@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-##SKills 
+## SKills 
 - Java
 - Gradle
 - Spring Boot, Spring MVC
