@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello, I'm college student, Masaru Jun Asano in Seattle. 
+Hi!
 
 ## SKills 
 - Java
