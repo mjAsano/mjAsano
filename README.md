@@ -6,6 +6,8 @@ Hi!
 - Gradle
 - Spring Boot, Spring MVC
 - JUnit5
+- Golang
+- Typescript
 - Git
 
 
