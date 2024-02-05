@@ -6,7 +6,7 @@ Hi!
 - Gradle
 - Spring Boot, Spring MVC
 - JUnit5
-- Golang
+- React & Next.JS 13~14
 - Typescript
 - Git
 
