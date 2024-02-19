@@ -2,13 +2,12 @@
 Hi!
 
 ## SKills 
+- React & Next.JS 13~14
+- Typescript
 - Java
 - Gradle
 - Spring Boot, Spring MVC
 - JUnit5
-- React & Next.JS 13~14
-- Typescript
-- Git
 
 ## Contact
 - me@mjasano.com
