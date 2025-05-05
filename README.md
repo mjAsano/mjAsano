@@ -1,14 +1,28 @@
 ## Hi there 👋
-Hi!
+Hi! I'm Masaru, a full-stack developer passionate about building efficient and scalable applications.
 
-## SKills 
-- React & Next.JS 13~14
-- Typescript
+## 🛠️ Skills
+### Frontend
+- React & Next.js (13~14)
+- TypeScript
+- HTML/CSS
+- Tailwind CSS
+
+### Backend
+- Python
 - Java
+- Spring Boot & Spring MVC
 - Gradle
-- Spring Boot, Spring MVC
-- JUnit5
 
-## Contact
-- me@mjasano.com
-- 4sun0620@gmail.com 
+### DevOps & Tools
+- Git & GitHub
+- Docker
+- Supabase
+- Discord API Integration
+
+### Testing
+- JUnit5
+- Python Testing Frameworks
+
+## 📫 Contact
+- Email: me@mjasano.com
