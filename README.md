@@ -1,7 +1,7 @@
 <h1 align="center">Masaru Jun Asano</h1>
 
 <p align="center">
-  Building thoughtful tools for creators, editors, and people who live in the terminal.
+  Making things, breaking things, and learning in public.
 </p>
 
 <p align="center">
@@ -9,26 +9,22 @@
   <a href="mailto:me@mjasano.com">me@mjasano.com</a>
 </p>
 
-## What I’m focused on in 2026
+## 2026, lately
 
-I build products where creative work and software meet: browser-based editing tools, native macOS utilities, workflow automation, and the services that support them. I care about making complex workflows feel direct, fast, and dependable.
+I’m exploring creative tools, video workflows, native macOS apps, and small automations. Most of what lives here is an experiment, a prototype, or a thing I wanted to exist.
 
-## Selected work
+I work with TypeScript, Swift, and Python, and I’m especially interested in the messy space where AI, media, and everyday tools overlap.
 
-| Project | What it is | Built with |
-| --- | --- | --- |
-| [multicam](https://github.com/mjAsano/multicam) | A browser-based prototype for multicam non-linear video editing. [Try it →](https://multicam-three.vercel.app) | TypeScript, React, CSS |
-| [MuneoTerm](https://github.com/mjAsano/muneoterm) | A native macOS terminal with tabs, split panes, and batch AI-assisted execution. | Swift, SwiftUI, AppKit |
-| [hey_youtube](https://github.com/mjAsano/hey_youtube) | A Python experiment in the creator-tooling space. | Python |
+## Currently building
 
-## Toolkit
+- little tools for video and creator workflows
+- terminal and desktop experiments for macOS
+- automations that make repetitive work less annoying
 
-`TypeScript` · `React` · `Next.js` · `Swift` · `SwiftUI` · `AppKit` · `Python` · `FastAPI` · `Java` · `Docker` · `AWS`
+## Stack I reach for
 
-## Beyond the public repos
-
-I also work with a small team on product, platform, and research workflows for creator-facing software—spanning editing systems, AI-assisted services, and the infrastructure behind them.
+`TypeScript` · `React` · `Next.js` · `Swift` · `SwiftUI` · `Python` · `FastAPI` · `Docker`
 
 ---
 
-<p align="center"><i>making bugs; then making them useful.</i></p>
+<p align="center"><i>making bugs; sometimes making them useful.</i></p>
